@@ -1,16 +1,26 @@
-## Hi there 👋
+# سلام، من زهرا دلفانی هستم 👋
 
-<!--
-**della-coder/della-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## درباره من
+من یک توسعه‌دهنده بک‌اند هستم که در حال یادگیری و ساخت پروژه‌های واقعی با **Django** است. هدف من تبدیل شدن به یک متخصص در زمینه توسعه بک‌اند و امنیت وب است.
 
-Here are some ideas to get you started:
+- 🌱 در حال یادگیری **Django REST Framework** و **امنیت وب**
+- 💼 به دنبال فرصت‌های **کارآموزی** و **پروژه‌های فریلنسری**
+- 📍 ساکن ایران
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ تکنولوژی‌ها
+- Python
+- Django
+- Django REST Framework
+- Git & GitHub
+- HTML / CSS
+- Bootstrap
+- SQLite
+
+## 🚀 پروژه‌های من
+1. [سیستم مدیریت کارها (Todo)](https://github.com/della-coder/todo_project)
+2. [وبلاگ شخصی](https://github.com/della-coder/myblog)
+3. [فروشگاه ساده](https://github.com/della-coder/shop)
+4. [API فروشگاه](https://github.com/della-coder/api_project)
+
+## 📫 راه‌های ارتباطی
+- [LinkedIn](https://www.linkedin.com/in/zahra-delfani/)
